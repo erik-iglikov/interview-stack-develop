@@ -75,7 +75,7 @@
     "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "^10.4.13",
     "babel-plugin-named-exports-order": "^0.0.2",
-    "msw": "^1.0.1",
+    "msw": "^2.4.10",
     "postcss": "^8.4.21",
     "postcss-loader": "^7.0.2",
     "prop-types": "^15.8.1",
